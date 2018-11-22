@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/win-lose-draw/static/js/runtime~main.378b0c09.js"
   },
   {
-    "revision": "bb89ff77165d4f899b04",
-    "url": "/win-lose-draw/static/js/main.bb89ff77.chunk.js"
+    "revision": "be9d199a13fa33ab5aa9",
+    "url": "/win-lose-draw/static/js/main.be9d199a.chunk.js"
   },
   {
     "revision": "2dd891c45704ef41f3d5",
     "url": "/win-lose-draw/static/js/1.2dd891c4.chunk.js"
   },
   {
-    "revision": "bb89ff77165d4f899b04",
-    "url": "/win-lose-draw/static/css/main.6937afd3.chunk.css"
+    "revision": "be9d199a13fa33ab5aa9",
+    "url": "/win-lose-draw/static/css/main.f06eacb5.chunk.css"
   },
   {
-    "revision": "0c354498f68b935c491d4da32e59f267",
+    "revision": "7aa5686aefb2addb6cf0f38510799b11",
     "url": "/win-lose-draw/index.html"
   }
 ];
