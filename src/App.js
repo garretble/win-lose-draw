@@ -8,7 +8,7 @@ const startingState = {
   currentWord: "No Phrase Selected",
   wordSelected: false,
   ready: false,
-  currentTime: 10,
+  currentTime: 60,
   currentlyRunning: false,
   gameOver: false,
   difficulty: "easy"
